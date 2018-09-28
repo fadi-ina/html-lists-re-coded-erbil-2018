@@ -66,6 +66,8 @@ will display a numbered list instead of bullets:
 </ol>
 ```
 
+
+
 Add the above to your Listings page, save and check out your live page to see
 the difference.
 
